@@ -26,7 +26,7 @@ SECRET_KEY = '&1t230$zhfdy*8gziqqbxg&1#3+i3f-u^dbrzm6i-wum057aa)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['djang.azurewebsites.net']
 
 
 # Application definition
